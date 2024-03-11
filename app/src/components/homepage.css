@@ -1,0 +1,58 @@
+/* .background{
+    background-image: url('./images/hero.png');
+    background-size: cover;
+    height: 90vh;
+    text-align: center;
+    position: relative;
+    opacity: 10;
+}
+.content{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(30 41 59);
+
+}
+.B1{
+    position: relative;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    background-color: #4682B4;
+    border: none;
+}
+.B2{
+    position: relative;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    background-color: #4682B4;
+    border: none;
+} */
+
+
+.background{
+    background-image: url('./images/hero.png'); /* Set the background image URL */
+    background-size: 100% 100%; /* Cover the entire container with the image */
+    background-repeat: no-repeat; /* Prevent repetition of the image */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    width: 100%; /* Set the width to 100% */
+}
+.content{
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left: 25%;
+    /* color: rgb(30 41 59); */
+    color: #040720;
+}
+.B1{
+    position: relative;
+    border-radius: 20px;
+    /* font-size: 20px; */
+    height: 40px;
+    width: 120px;
+    background-color: #4682B4;
+    border: none;
+}
+
